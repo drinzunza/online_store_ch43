@@ -1,0 +1,12 @@
+.home {
+  background-color: rgb(207, 215, 215);
+  padding: 30px 20px;
+}
+
+.home h1 {
+  color: darkcyan;
+}
+
+.home img {
+  width: 100%;
+}

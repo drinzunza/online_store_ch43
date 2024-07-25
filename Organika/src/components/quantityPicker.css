@@ -1,0 +1,9 @@
+.qty-picker button {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.qty-picker label {
+  font-weight: bold;
+  color: #333;
+}

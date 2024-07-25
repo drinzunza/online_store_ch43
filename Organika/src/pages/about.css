@@ -1,0 +1,15 @@
+.about {
+  background-color: #a8a8a8;
+}
+
+.about h1 {
+  color: red;
+}
+
+.about button {
+  color: darkblue;
+}
+
+.about img {
+  width: 200px;
+}

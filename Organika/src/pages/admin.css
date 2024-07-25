@@ -1,0 +1,22 @@
+.admin {
+  min-height: 80vh;
+}
+
+.admin .exchange {
+  background-color: #85cbb9;
+  border: 1px solid #5a9486;
+  border-radius: 4px;
+  width: 450px;
+  margin: 10px auto;
+}
+
+.admin .exchange h3 {
+  color: white;
+}
+
+.admin .name {
+  background-color: #d1dcf8;
+  border: 1px solid #97a7d0;
+  width: 600px;
+  margin: 10px auto;
+}
